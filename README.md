@@ -2,7 +2,7 @@
 
 ## Files: 
 - `cart2sphd`: function, cartesian to spherical coordinates output in units of degrees.
-- `craters_roughness_ratios_kdtree_3d`: script to calculate interior/exterior roughness ratio ($RR_{i/e} = \nu(L)_{interior} / \nu(L)_{exterior}$) for crater ROIs.
+- `craters_roughness_ratios_kdtree_3d`: script to calculate interior/exterior roughness ratio ($RR_{i/e}$) for crater ROIs.
 - `craters_roughness_profiles_kdtree_3d`: script to calculate radial roughness profiles ($\nu(L)$ vs $R_C$) for crater ROIs.
 - `crop_crater_roi_pcd`: script to create crater ROIs from pre-existing point clouds.
 - `get_deviogram_from_dh_pcd` script to compute deviogram ($\nu(L)$ vs $L$) using point clouds.
