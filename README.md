@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/869140478.svg)](https://doi.org/10.5281/zenodo.13901374)
 # metre_scale_roughness_of_asteroid_bennu_from_OLA
 
 ## Files: 
