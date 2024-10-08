@@ -1,4 +1,4 @@
-# OLA_roughness_scripts
+# metre_scale_roughness_of_asteroid_bennu_from_OLA
 
 ## Files: 
 - `cart2sphd`: function, cartesian to spherical coordinates output in units of degrees.
